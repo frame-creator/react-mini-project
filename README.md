@@ -1,6 +1,6 @@
 # react-mini-project
 
-url:
+firebase hosting url:
 https://catsworld-55b86.web.app
 
 
