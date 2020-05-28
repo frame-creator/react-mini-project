@@ -1,0 +1,26 @@
+.card-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #f3ca7d;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 25px;
+    cursor: pointer;
+    backface-visibility: hidden;
+    transform: translateZ(0);
+    transition: transfrom 0.25s ease-out;
+}
+.card-container:hover {
+    transform: scale(1.05);
+}
+
+h2 {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    
+    
+  }
+p {
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    
+    
+  }
