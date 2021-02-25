@@ -33,7 +33,7 @@ https://robohash.org/${props.id}?set=set4&size=180x180
 
 
 
-<p align="center"><img width="30%"  src="https://github.com/frame-creator/stackimage/blob/master/reademe/cats.png?raw=true"></p>
+<p align="center"><img width="20%"  src="https://github.com/frame-creator/stackimage/blob/master/reademe/cats.png?raw=true"></p>
 
 <br/>
 
